@@ -27,7 +27,7 @@ segment customers by financial behavior and deliver actionable business strategy
 | 🔵 Low Engagement — Dormant | 3,367 | $4,200 | Win-back campaigns, account review |
 
 ## 💡 Key Insights
-- 44% of customers are High Risk Revolvers — largest segment requiring immediate attention
+- 44% of customers are High Risk Revolvers- largest segment requiring immediate attention
 - High Value customers have 3x the credit limit of High Risk customers
 - Dormant segment represents significant lost revenue opportunity
 
