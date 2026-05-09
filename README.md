@@ -32,6 +32,6 @@ segment customers by financial behavior and deliver actionable business strategy
 - Dormant segment represents significant lost revenue opportunity
 
 ## 📁 Files
-- `customer_segmentation.ipynb` — Full Python analysis
-- `customer_segments_output.csv` — Segmented dataset
-- `dashboard_screenshot.png` — Power BI dashboard
+- `customer_segmentation.ipynb`- Full Python analysis
+- `customer_segments_output.csv`- Segmented dataset
+- `dashboard_screenshot.png`- Power BI dashboard
