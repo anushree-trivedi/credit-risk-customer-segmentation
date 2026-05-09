@@ -16,8 +16,6 @@ segment customers by financial behavior and deliver actionable business strategy
 - PCA (Dimensionality Reduction)
 - Power BI (Dashboard)
 
-## 📊 Dashboard Preview
-![Dashboard](dashboard_screenshot.png)
 
 ## 🔍 Customer Segments Identified
 
