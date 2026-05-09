@@ -21,10 +21,10 @@ segment customers by financial behavior and deliver actionable business strategy
 
 | Segment | Count | Avg Credit Limit | Business Action |
 |---|---|---|---|
-| 🟢 High Value — Full Payers | 409 | $9,700 | Loyalty rewards, credit limit increase |
-| 🔴 High Risk — Revolvers | 3,977 | $3,300 | Monitor delinquency, hardship programs |
-| 🟡 Moderate — Occasional Spenders | 1,197 | $7,500 | Re-engagement campaigns |
-| 🔵 Low Engagement — Dormant | 3,367 | $4,200 | Win-back campaigns, account review |
+| 🟢 High Value: Full Payers | 409 | $9,700 | Loyalty rewards, credit limit increase |
+| 🔴 High Risk: Revolvers | 3,977 | $3,300 | Monitor delinquency, hardship programs |
+| 🟡 Moderate: Occasional Spenders | 1,197 | $7,500 | Re-engagement campaigns |
+| 🔵 Low Engagement: Dormant | 3,367 | $4,200 | Win-back campaigns, account review |
 
 ## 💡 Key Insights
 - 44% of customers are High Risk Revolvers- largest segment requiring immediate attention
